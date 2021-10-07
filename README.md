@@ -1,2 +1,3 @@
 # TectonicRedirect
-Redirect for the Tectonic archive.org URL
+
+Redirect for the Tectonic TeXLive assets.
